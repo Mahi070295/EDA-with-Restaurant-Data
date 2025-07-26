@@ -1,6 +1,6 @@
 SELECT * FROM restaurant;
 
-
+SELECT * FROM menu;
 --case study answers
 
 -- 1. Total Revenue
